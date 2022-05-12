@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2? family=Akshar:wght@300;400&family=Dosis:wght@400;600&family=Lato:wght@100&family=Ms+Madi&family=Nunito:wght@300&family=Oswald:wght@700&family=Poppins:ital,wght@0,300;1,200&family=Radio+Canada&family=Raleway:wght@200& family=Roboto:wght@300;400;500;700&family=Square+Peg&family=Work+Sans:wght@500&family=Zen+Loop&display=swap');
+header{
+    text-align: center;
+}
+.logo{
+    text-align: center;
+    margin-top: 50px;
+}
+nav{
+    text-align: center;
+    margin-top: 30px;
+}
+nav ul li {
+    display: inline;
+     padding-left:30px; 
+     font-family: 'Work Sans', sans-serif;
+        
+}
+ nav li:hover{
+    color: pink;
+
+}
+.banner{
+    width: 100%;
+    height: 250px;
+    background-color: orangered;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 38px;
+    padding-top: 45px;
+}
+.socialredes ul li {
+    display: inline-flex;
+    padding-left: 25px;
+    
+   
+}
+.socialredes ul{
+    margin-top: -90px;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+.socialredes i:hover{
+    color: gray;
+}
+.imagen{
+    text-align: center;
+    margin-top: 140px;
+}
+.informacion{
+    width: 790px;
+    margin-left: 240px;
+    margin-top: 57px;
+    color: gray;
+}
+h1{
+    font-family: 'Nunito', sans-serif;
+    margin-left: 240px;
+    color: black;
+    font-size: 24px;
+}
+h3{
+    font-size: 19px;
+    margin-left: 240px;
+    color: gray;
+}
+.box-list ul li{
+    margin-left: 230px;
+    color: gray;
+}
+h5{
+    color:gray;
+    font-size: 16px;
+    margin-left: 240px;
+}
+button{
+    width: 210px;
+    height: 60px;
+    background-color: orangered;
+    color: white;
+    border-radius: 50px;
+    border:none;
+    margin-left: 520px;
+    margin-top: 30px;
+}
+.redes1 ul li {
+   display: inline-block;
+   list-style: none;
+   color: gray;
+   font-size: 20px;
+   padding:-226px;
+   margin-left: 10px;
+
+    
+}
+.redes1{
+    text-align: center;
+}
+a{
+    color: pink;
+    text-decoration: none;
+}
+.informacion1{
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+}
+hr{
+  width: 470px;
+  margin-left: 420px;    
+}
